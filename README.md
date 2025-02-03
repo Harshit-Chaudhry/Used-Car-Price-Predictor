@@ -49,10 +49,6 @@ This project predicts used car prices using machine learning.  It considers feat
 
 Contributions are welcome! Open issues or submit pull requests.
 
-**License**
-
-[Your License - e.g., MIT]
-
 **Contact**
 
 Harshit Chaudhary - Chaudhary.harshit1203@gmail.com - www.linkedin.com/in/harshit-chaudhary-Ai-Agent
