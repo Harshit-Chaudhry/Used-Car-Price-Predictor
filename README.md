@@ -18,7 +18,7 @@ This project predicts used car prices using machine learning.  It considers feat
     * Model evaluation using R-squared, MSE, and RMSE.
 * **Model Selection & Tuning:**
     * Selected the best model via hyperparameter tuning.
-* **Deployment (Optional):**
+* **Deployment :**
     * Deployed as a web app using Streamlit - Framework.
 
 **Technologies Used**
@@ -27,14 +27,14 @@ This project predicts used car prices using machine learning.  It considers feat
 * **ML Libraries:** scikit-learn, XGBoost *(Example Libraries)*
 * **Data Libraries:** pandas, NumPy
 * **Visualization:** matplotlib, seaborn
-* **Web Framework (Optional):** Flask, Streamlit
+* **Web Framework :** Flask, Streamlit
 
 **How to Use**
 
 1. **Clone:** `git clone https://github.com/Harshit-Chaudhry/Used-Car-Price-Predictor.git`
 2. **Dependencies:** `pip install -r requirements.txt`
-3. **Run (If applicable):** `streamlit run app.py`
-4. **Access (If applicable):** `http://127.0.0.1:5000/` 
+3. **Run :** `streamlit run app.py`
+4. **Access :** `http://127.0.0.1:5000/` 
 
 **Results & Evaluation**
 
