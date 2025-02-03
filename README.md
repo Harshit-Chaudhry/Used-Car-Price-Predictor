@@ -1,6 +1,7 @@
 # Used Car Price Predictor
 
-https://github.com/Harshit-Chaudhry/Used-Car-Price-Predictor/blob/main/image%20copy.png
+![Used Car Image](image%20copy.png)  
+
 **Project Overview**
 
 This project predicts used car prices using machine learning.  It considers features like make, model, year, mileage, and condition to estimate fair market values, benefiting both buyers and sellers.
