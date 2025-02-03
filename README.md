@@ -1,7 +1,6 @@
 # Used Car Price Predictor
 
-![Used Car](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2015_Chevrolet_Camaro_2LT_Convertible_%281%29.jpg/1280px-2015_Chevrolet_Camaro_2LT_Convertible_%281%29.jpg)  *(Example Image - Replace with your own)*
-
+https://github.com/Harshit-Chaudhry/Used-Car-Price-Predictor/blob/main/image%20copy.png
 **Project Overview**
 
 This project predicts used car prices using machine learning.  It considers features like make, model, year, mileage, and condition to estimate fair market values, benefiting both buyers and sellers.
@@ -9,7 +8,7 @@ This project predicts used car prices using machine learning.  It considers feat
 **Features**
 
 * **Data Collection & Preprocessing:**
-    * Data sourced from [Data Source - e.g., Kaggle, Web Scraping].
+    * Data sourced from Kaggle, Web Scraping.
     * Data cleaning included handling missing values, outliers, and converting categorical features.
 * **Feature Engineering:**
     * Engineered features like vehicle age, mileage brackets, and brand popularity.
@@ -19,7 +18,7 @@ This project predicts used car prices using machine learning.  It considers feat
 * **Model Selection & Tuning:**
     * Selected the best model via hyperparameter tuning.
 * **Deployment (Optional):**
-    * Deployed as a web app using [Framework - e.g., Flask, Streamlit].
+    * Deployed as a web app using Streamlit - Framework.
 
 **Technologies Used**
 
@@ -31,9 +30,30 @@ This project predicts used car prices using machine learning.  It considers feat
 
 **How to Use**
 
-1. **Clone:** `git clone [Your Repository URL]`
+1. **Clone:** `git clone https://github.com/Harshit-Chaudhry/Used-Car-Price-Predictor.git`
 2. **Dependencies:** `pip install -r requirements.txt`
-3. **Run (If applicable):** `python app.py`
-4. **Access (If applicable):** `http://127.0.0.1:5000/` *(Example Localhost URL)*
+3. **Run (If applicable):** `streamlit run app.py`
+4. **Access (If applicable):** `http://127.0.0.1:5000/` 
 
-**Project Structure**
+**Results & Evaluation**
+
+* Best model achieved R-squared: 0.802128	
+* MSE: 1.162736e+11	 , RMSE: 340989.157705 
+
+**Future Work**
+
+* Explore deep learning models.
+* Buil an AI Agent for doing work in automobile Industry.
+
+**Contributing**
+
+Contributions are welcome! Open issues or submit pull requests.
+
+**License**
+
+[Your License - e.g., MIT]
+
+**Contact**
+
+Harshit Chaudhary - Chaudhary.harshit1203@gmail.com - www.linkedin.com/in/harshit-chaudhary-Ai-Agent
+
