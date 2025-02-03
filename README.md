@@ -24,7 +24,7 @@ This project predicts used car prices using machine learning.  It considers feat
 **Technologies Used**
 
 * **Languages:** Python
-* **ML Libraries:** scikit-learn, XGBoost *(Example Libraries)*
+* **ML Libraries:** scikit-learn, XGBoost 
 * **Data Libraries:** pandas, NumPy
 * **Visualization:** matplotlib, seaborn
 * **Web Framework :** Flask, Streamlit
