@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/8c976823985d4b0b9da781c53f9c4ddf/artifacts
+deleted_time: 1743113573146
 end_time: 1742649866335
 entry_point_name: ''
 experiment_id: '372684808404552117'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8c976823985d4b0b9da781c53f9c4ddf
 run_name: Random Forest Regressor
 run_uuid: 8c976823985d4b0b9da781c53f9c4ddf

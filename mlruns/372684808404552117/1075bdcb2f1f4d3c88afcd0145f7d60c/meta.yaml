@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/1075bdcb2f1f4d3c88afcd0145f7d60c/artifacts
+deleted_time: 1743113573150
 end_time: 1742649871481
 entry_point_name: ''
 experiment_id: '372684808404552117'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1075bdcb2f1f4d3c88afcd0145f7d60c
 run_name: Ridge Regression
 run_uuid: 1075bdcb2f1f4d3c88afcd0145f7d60c

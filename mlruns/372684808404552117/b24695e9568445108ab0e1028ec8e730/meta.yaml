@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/b24695e9568445108ab0e1028ec8e730/artifacts
+deleted_time: 1743113573149
 end_time: 1742649946810
 entry_point_name: ''
 experiment_id: '372684808404552117'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b24695e9568445108ab0e1028ec8e730
 run_name: Lasso Regression
 run_uuid: b24695e9568445108ab0e1028ec8e730

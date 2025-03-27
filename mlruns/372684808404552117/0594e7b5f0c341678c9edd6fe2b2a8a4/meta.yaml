@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/0594e7b5f0c341678c9edd6fe2b2a8a4/artifacts
+deleted_time: 1743113573162
 end_time: 1742649820138
 entry_point_name: ''
 experiment_id: '372684808404552117'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0594e7b5f0c341678c9edd6fe2b2a8a4
 run_name: Decision Tree Regressor
 run_uuid: 0594e7b5f0c341678c9edd6fe2b2a8a4

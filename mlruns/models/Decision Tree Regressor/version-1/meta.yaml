@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743114478388
+current_stage: None
+description: ''
+last_updated_timestamp: 1743114478388
+name: Decision Tree Regressor
+run_id: 9790ff1fb2244f6fb00fce8365e44e93
+run_link: ''
+source: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/9790ff1fb2244f6fb00fce8365e44e93/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/9790ff1fb2244f6fb00fce8365e44e93/artifacts/model
+user_id: null
+version: 1

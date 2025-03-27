@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743114350928
+current_stage: None
+description: ''
+last_updated_timestamp: 1743114350928
+name: Random Forest Regressor
+run_id: 663d08d853c74fe3b9709befcd565842
+run_link: ''
+source: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/663d08d853c74fe3b9709befcd565842/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/663d08d853c74fe3b9709befcd565842/artifacts/model
+user_id: null
+version: 2

@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/639632415b5d4b33bfe04d6a23a8ede9/artifacts
+deleted_time: 1743113573161
 end_time: 1742649814409
 entry_point_name: ''
 experiment_id: '372684808404552117'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 639632415b5d4b33bfe04d6a23a8ede9
 run_name: Linear Regression
 run_uuid: 639632415b5d4b33bfe04d6a23a8ede9

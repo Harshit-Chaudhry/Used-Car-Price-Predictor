@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/9790ff1fb2244f6fb00fce8365e44e93/artifacts
+end_time: 1743113678971
+entry_point_name: ''
+experiment_id: '372684808404552117'
+lifecycle_stage: active
+run_id: 9790ff1fb2244f6fb00fce8365e44e93
+run_name: Decision Tree Regressor
+run_uuid: 9790ff1fb2244f6fb00fce8365e44e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743113673112
+status: 3
+tags: []
+user_id: DELL

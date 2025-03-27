@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/792d9a5e2e3f4e9680a7c65f7cdfd9d8/artifacts
+deleted_time: 1743113573148
 end_time: 1742650832282
 entry_point_name: ''
 experiment_id: '372684808404552117'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 792d9a5e2e3f4e9680a7c65f7cdfd9d8
 run_name: resilient-ape-76
 run_uuid: 792d9a5e2e3f4e9680a7c65f7cdfd9d8
