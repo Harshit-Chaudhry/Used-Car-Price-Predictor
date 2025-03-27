@@ -1,0 +1,21 @@
+artifact_path: Decision Tree Regressor
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.21.0
+model_size_bytes: 1569037
+model_uuid: c9fb8437bcc34fffaf9eb3780518caf0
+prompts: null
+run_id: 0594e7b5f0c341678c9edd6fe2b2a8a4
+utc_time_created: '2025-03-22 13:23:35.225761'

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/projects/Used-Car-Price-Predictor/mlruns/372684808404552117/00ced6fe71d2464286a6e1c30ef4e28f/artifacts
+deleted_time: 1742649961007
+end_time: 1742643307470
+entry_point_name: ''
+experiment_id: '372684808404552117'
+lifecycle_stage: deleted
+run_id: 00ced6fe71d2464286a6e1c30ef4e28f
+run_name: Lasso Regression
+run_uuid: 00ced6fe71d2464286a6e1c30ef4e28f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742643219946
+status: 3
+tags: []
+user_id: DELL

@@ -4,3 +4,8 @@ numpy
 joblib
 scikit-learn
 pillow
+ipykernel
+matplotlib
+seaborn
+plotly-express
+mlflow
